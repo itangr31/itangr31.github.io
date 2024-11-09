@@ -7,4 +7,3 @@
 - B.Eng., Mechanical Engineering | Universitas Indonesia (2019)
 
 ## Projects
-tes
